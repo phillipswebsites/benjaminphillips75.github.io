@@ -48,11 +48,6 @@ ul.nav a:hover, ul.nav a:active {
 	background-color: #66d9ff;
 }
 
-img {
-	margin:22px 10px 10px 0px;
-	float: right;
-}
-
 div.container {
 	width: 700px;
 	margin: auto;
