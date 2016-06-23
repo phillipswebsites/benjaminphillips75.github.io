@@ -5,13 +5,13 @@ body{
 h1, h2{
 	font-family: 'PT Sans Narrow', sans-serif;
 	clear: both;
-	color: #f8a94e;
+	color: #f68e56;
 }
 
 p, li, th, td {
 	font-family: Helvetica, Arial;
 	font-size: 18px;
-	color: #f8a94e;
+	color: #f68e56;
 }
 
 a:link, a:visited {
@@ -39,13 +39,13 @@ ul.nav a:link, ul.nav a:visited {
 	display: block;
 	width: 165px;
 	color: white;
-	background-color: #aaff80;
+	background-color: #3cb878;
 	padding: 3px;
 	text-decoration: none;
 }
 
 ul.nav a:hover, ul.nav a:active {
-	background-color: #66d9ff;
+	background-color: #00bff3;
 }
 
 div.container {
