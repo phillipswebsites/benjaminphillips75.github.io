@@ -31,7 +31,7 @@ ul.nav  {
 }
 
 ul.nav li {
-	float: left;
+	float: center;
 	text-align: center;
 }
 
@@ -49,7 +49,7 @@ ul.nav a:hover, ul.nav a:active {
 }
 
 div.container {
-	width: 1200px;
+	width: 900px;
 	margin: auto;
 }
 
