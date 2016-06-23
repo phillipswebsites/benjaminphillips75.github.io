@@ -31,7 +31,7 @@ ul.nav  {
 }
 
 ul.nav li {
-	float: center;
+	float: left;
 	text-align: center;
 }
 
